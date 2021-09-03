@@ -1,2 +1,2 @@
 # react-project
-web-app using react-redus
+web-app using react js and redux
